@@ -4,7 +4,7 @@ Drum Kit is a fun and interactive web-based project that simulates a virtual dru
 
 ## 🌐 Live Demo
 
-Play it live here: [Drum Kit Live](https://blackcommando101.github.io/Drum-Kit/)
+Play it live here: [Drum Kit Live](https://razeelbuilds.github.io/Drum-Kit/)
 
 ## 📌 Features
 
@@ -43,7 +43,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Blackcommando101/Drum-Kit.git
+   git clone https://github.com/RazeelBuilds/Drum-Kit.git
    ```
 
 2. Navigate into the project folder:
@@ -60,7 +60,7 @@ To run this project locally:
 
 **Razeel Kapdi**
 
-- **GitHub**: [Blackcommando101](https://github.com/Blackcommando101)
+- **GitHub**: [RazeelBuilds](https://github.com/RazeelBuilds/)
 - **LinkedIn**: [Razeel Kapdi](https://www.linkedin.com/in/razeel-kapdi-698955267/)
 - **Email**: razeelkapdi2003@gmail.com
 
